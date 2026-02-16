@@ -1,0 +1,7 @@
+{
+  "name": "ViralTube AI Studio",
+  "description": "An AI-powered YouTube toolkit to generate 3D colorful thumbnails, optimized titles, descriptions, hashtags, and virality predictions from a single photo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
